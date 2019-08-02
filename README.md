@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [How to train an object detection model easy for free](https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/) | DLology Blog
 
 
@@ -84,3 +85,6 @@ python local_inference_test.py\
      --img ./test/15.jpg\
      --cpu
 ```
+=======
+# vehicle-detection
+>>>>>>> 51c02fd68e2e3cb32bb38d99df8dfb5544406eda
